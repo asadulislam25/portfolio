@@ -18,3 +18,27 @@ li a{
 a:hover{
     color: rgb(9, 117, 179);
 }
+#main{
+    margin-top: 150px;
+    margin-left: 80px;
+    width: 40%;
+}
+#main_image{
+    
+    float: right;
+    margin-top: -280px;
+    margin-right: 90px; 
+}
+.center{
+    padding: 1px;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    color: black;
+    border: 1px solid black;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
